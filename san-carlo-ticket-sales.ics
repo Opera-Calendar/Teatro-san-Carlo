@@ -5,4 +5,64 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:San Carlo - Ticket Sales
 X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:public-2026-27@san-carlo-sales
+DTSTAMP:20261103T172332Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:San Carlo 2026/27 - Public ticket sales
+LOCATION:Teatro di San Carlo\, Napoli
+DESCRIPTION:Public ticket sales for season 2026/27.\nOpening hour not published/verified: event is all-day.\nAdvance alerts are notifications\, not separate events.\nSource: https://www.teatrosancarlo.it/
+URL:https://www.teatrosancarlo.it/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Carlo 2026/27 - Public ticket sales - 3 months before
+TRIGGER;VALUE=DATE-TIME:20260330T070000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Carlo 2026/27 - Public ticket sales - 1 month before
+TRIGGER;VALUE=DATE-TIME:20260530T070000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Carlo 2026/27 - Public ticket sales - 1 week before
+TRIGGER;VALUE=DATE-TIME:20260623T070000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Carlo 2026/27 - Public ticket sales - 1 day before
+TRIGGER;VALUE=DATE-TIME:20260629T070000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:released_seats-2026-27@san-carlo-sales
+DTSTAMP:20261103T172332Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:San Carlo 2026/27 - Release of unrenewed subscription seats
+LOCATION:Teatro di San Carlo\, Napoli
+DESCRIPTION:Release of unrenewed subscription seats for season 2026/27.\nOpening hour not published/verified: event is all-day.\nAdvance alerts are notifications\, not separate events.\nSource: https://www.teatrosancarlo.it/
+URL:https://www.teatrosancarlo.it/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Carlo 2026/27 - Release of unrenewed subscription seats - 3 months before
+TRIGGER;VALUE=DATE-TIME:20260701T070000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Carlo 2026/27 - Release of unrenewed subscription seats - 1 month before
+TRIGGER;VALUE=DATE-TIME:20260901T070000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Carlo 2026/27 - Release of unrenewed subscription seats - 1 week before
+TRIGGER;VALUE=DATE-TIME:20260924T070000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:San Carlo 2026/27 - Release of unrenewed subscription seats - 1 day before
+TRIGGER;VALUE=DATE-TIME:20260930T070000Z
+END:VALARM
+END:VEVENT
 END:VCALENDAR
