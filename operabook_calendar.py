@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Teatro di San Carlo opera calendars, refreshed for every published season."""
 
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, time, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from dateutil.relativedelta import relativedelta
 import hashlib
 import json
 import logging
@@ -104,7 +105,48 @@ def utc_stamp(dt):
     return dt.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
 
+def ticket_alarm_blocks(sale_date, title):
+    """Four real VALARM notifications, not separate VEVENT calendar entries.
+
+    For date-only ticket sales, use 09:00 Europe/Rome on each reminder day.
+    This does not claim the ticket sale itself opens at 09:00.
+    """
+    offsets = [
+        (relativedelta(months=3), "3 months"),
+        (relativedelta(months=1), "1 month"),
+        (timedelta(weeks=1), "1 week"),
+        (timedelta(days=1), "1 day"),
+    ]
+    lines = []
+    for delta, label in offsets:
+        reminder_date = sale_date - delta
+        trigger = datetime.combine(reminder_date, time(9, 0), TZ)
+        lines.extend([
+            "BEGIN:VALARM", "ACTION:DISPLAY",
+            f"DESCRIPTION:{ics_escape(title + ' - ' + label + ' before')}",
+            f"TRIGGER;VALUE=DATE-TIME:{utc_stamp(trigger)}",
+            "END:VALARM",
+        ])
+    return lines
+
+
 def event_block(event):
+    if event.get("kind") == "ticket_sale":
+        sale_date = event["date"]
+        tomorrow = sale_date + timedelta(days=1)
+        lines = [
+            "BEGIN:VEVENT", f"UID:{event['uid']}",
+            f"DTSTAMP:{utc_stamp(datetime.now(timezone.utc))}",
+            f"DTSTART;VALUE=DATE:{sale_date:%Y%m%d}",
+            f"DTEND;VALUE=DATE:{tomorrow:%Y%m%d}",
+            f"SUMMARY:{ics_escape(event['title'])}",
+            "LOCATION:Teatro di San Carlo\\, Napoli",
+            f"DESCRIPTION:{ics_escape(event['description'])}",
+            f"URL:{event['url']}",
+        ]
+        lines.extend(ticket_alarm_blocks(sale_date, event["title"]))
+        return lines + ["END:VEVENT"]
+
     start = event["start"]
     # Approximate duration; no claim of an exact finish time.
     end = start + timedelta(hours=3)
@@ -117,7 +159,6 @@ def event_block(event):
         f"DESCRIPTION:{ics_escape(event['description'] + chr(10) + 'End time approximate (3h).')}",
         f"URL:{event['url']}", "END:VEVENT",
     ]
-
 
 def old_blocks(path):
     """Keep previously published performances across season rollover."""
@@ -147,24 +188,52 @@ def write_ics(path, events, calendar_name, keep_history=True):
     logging.info("Wrote %s with %d events", path.name, len(blocks))
 
 
+SALE_CATEGORIES = {
+    "public": "Public ticket sales",
+    "released_seats": "Release of unrenewed subscription seats",
+}
+
+
 def ticket_events():
-    """Read ONLY verified sales dates; never guess opening dates."""
+    """One visible event per confirmed sale category per season.
+
+    The local ticket_sales.json is the source of truth; we never guess dates.
+    Entries must contain season, type, date (YYYY-MM-DD), and source.
+    """
     path = ROOT / "ticket_sales.json"
     if not path.exists():
+        logging.warning("ticket_sales.json absent: ticket calendar will be empty")
         return {}
     sales = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(sales, list):
+        raise ValueError("ticket_sales.json must contain a JSON array")
     result = {}
+    per_season = set()
     for row in sales:
-        start = datetime.fromisoformat(row["start"]).replace(tzinfo=TZ)
-        label = row["title"]
-        uid = hashlib.sha256((label + start.isoformat()).encode()).hexdigest()[:24] + "@san-carlo-sales"
+        season = row["season"]
+        sale_type = row["type"]
+        if sale_type not in SALE_CATEGORIES:
+            raise ValueError(f"Unsupported ticket sale type: {sale_type!r}")
+        key = (season, sale_type)
+        if key in per_season:
+            raise ValueError(f"Duplicate ticket-sale category for season {season}: {sale_type}")
+        per_season.add(key)
+        sale_date = date.fromisoformat(row["date"])
+        source = row["source"]
+        uid = f"{sale_type}-{season.replace('/', '-')}@san-carlo-sales"
+        label = f"San Carlo {season} - {SALE_CATEGORIES[sale_type]}"
         result[uid] = {
-            "uid": uid, "title": "Ticket sale: " + label,
-            "start": start, "description": "Verified ticket-sale opening. Source: " + row["source"],
-            "url": row["source"],
+            "uid": uid, "kind": "ticket_sale", "date": sale_date,
+            "title": label,
+            "description": (
+                f"{SALE_CATEGORIES[sale_type]} for season {season}.\n"
+                "Opening hour not published/verified: event is all-day.\n"
+                "Advance alerts are notifications, not separate events.\n"
+                f"Source: {source}"
+            ),
+            "url": source,
         }
     return result
-
 
 def main():
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
@@ -185,7 +254,7 @@ def main():
     saturday = {uid: item for uid, item in performances.items() if item["start"].weekday() == 5}
     write_ics(ROOT / "san-carlo-saturdays.ics", saturday, "San Carlo - Saturday Opera")
     sales = ticket_events()
-    write_ics(ROOT / "san-carlo-ticket-sales.ics", sales, "San Carlo - Ticket Sales")
+    write_ics(ROOT / "san-carlo-ticket-sales.ics", sales, "San Carlo - Ticket Sales", keep_history=False)
     logging.info("Seasons found: %d | performances: %d | sales: %d", discovered, len(performances), len(sales))
 
 
