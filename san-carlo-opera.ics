@@ -7,7 +7,7 @@ X-WR-CALNAME:San Carlo - Opera
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
 UID:04331cb5f9f8450fa79aadce@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270616T180000Z
 DTEND:20270616T210000Z
 SUMMARY:Il barbiere di Siviglia
@@ -17,7 +17,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:04534659e980f204de55b87c@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270427T170000Z
 DTEND:20270427T200000Z
 SUMMARY:Nina o sia La pazza per amore
@@ -27,7 +27,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:08d1c48115dd8ce2c749cce8@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20251206T180000Z
 DTEND:20251206T210000Z
 SUMMARY:Medea
@@ -37,7 +37,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:0c87d3e16aea8c7a999f7b67@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270928T160000Z
 DTEND:20270928T190000Z
 SUMMARY:La damnation de Faust
@@ -47,7 +47,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:0edd20c88b33c605c995b5a8@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260125T160000Z
 DTEND:20260125T190000Z
 SUMMARY:Nabucco
@@ -57,7 +57,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:181fada860e5ee0f3139541a@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270121T180000Z
 DTEND:20270121T210000Z
 SUMMARY:Madama Butterfly
@@ -67,7 +67,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:187d4898f257f5e0466e3852@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260321T190000Z
 DTEND:20260321T220000Z
 SUMMARY:Lucia di Lammermoor
@@ -77,7 +77,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:1a4d36c0392aa40710385d2c@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270620T170000Z
 DTEND:20270620T200000Z
 SUMMARY:Il barbiere di Siviglia
@@ -87,7 +87,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:1b8db5e95ce31859f2975e72@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270312T190000Z
 DTEND:20270312T220000Z
 SUMMARY:Pagliacci
@@ -97,7 +97,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:1cfa71866f7c694c9cbf3739@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270316T180000Z
 DTEND:20270316T210000Z
 SUMMARY:Pagliacci
@@ -107,7 +107,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:1db46e2d0ea5d8a9e80923ca@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260620T170000Z
 DTEND:20260620T200000Z
 SUMMARY:Adriana Lecouvreur
@@ -117,7 +117,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:1fc768f6906c27bd4db86395@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20251213T160000Z
 DTEND:20251213T190000Z
 SUMMARY:Medea
@@ -127,7 +127,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:213b053a79ade723a374ca88@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261025T160000Z
 DTEND:20261025T190000Z
 SUMMARY:La Cenerentola
@@ -137,7 +137,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:215368f8c08c909003ea3aff@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20271027T180000Z
 DTEND:20271027T210000Z
 SUMMARY:La chute de la maison Usher
@@ -147,7 +147,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:253f751347a81eb4508f0f10@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260412T150000Z
 DTEND:20260412T180000Z
 SUMMARY:La bohème
@@ -157,7 +157,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:2b4c8fc3894371dfba59e661@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261206T160000Z
 DTEND:20261206T190000Z
 SUMMARY:Luisa Miller
@@ -167,7 +167,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:2d317b6457a9f50b8ae5993c@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Madama Butterfly
@@ -177,7 +177,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:2d8f7e0672ae88fa6892997d@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270926T150000Z
 DTEND:20270926T180000Z
 SUMMARY:La damnation de Faust
@@ -187,7 +187,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:30ee869bb37c05c929dcf6e6@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260618T170000Z
 DTEND:20260618T200000Z
 SUMMARY:Adriana Lecouvreur
@@ -197,7 +197,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:321d7175f4968017c374a5fa@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270622T170000Z
 DTEND:20270622T200000Z
 SUMMARY:Il barbiere di Siviglia
@@ -207,7 +207,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:32c4041f1aa54616ecb7ea49@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260522T170000Z
 DTEND:20260522T200000Z
 SUMMARY:Werther
@@ -217,7 +217,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:32f6d900c85834183e88b500@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20271029T160000Z
 DTEND:20271029T190000Z
 SUMMARY:La chute de la maison Usher
@@ -227,7 +227,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:34aca2fd6f46dd1bb6300a43@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260411T180000Z
 DTEND:20260411T210000Z
 SUMMARY:La bohème
@@ -237,7 +237,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:34c3d20cd0cd249f97e1b27c@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270421T160000Z
 DTEND:20270421T190000Z
 SUMMARY:Otto mesi in due ore o sia Gli esiliati in Siberia
@@ -247,7 +247,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:3af63775deebd63e27c1eea5@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260318T180000Z
 DTEND:20260318T210000Z
 SUMMARY:Lucia di Lammermoor
@@ -257,7 +257,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:3c1476dd1635dfee3df803d0@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261023T180000Z
 DTEND:20261023T210000Z
 SUMMARY:La Cenerentola
@@ -267,7 +267,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:3e3d7399ba998a5bbcffa916@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260616T180000Z
 DTEND:20260616T210000Z
 SUMMARY:Adriana Lecouvreur
@@ -277,7 +277,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:40d4da60e625c83bdd789b6e@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270217T190000Z
 DTEND:20270217T220000Z
 SUMMARY:Aida
@@ -287,7 +287,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:4306b5dcf53b4dc70d873a7c@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261203T190000Z
 DTEND:20261203T220000Z
 SUMMARY:Luisa Miller
@@ -297,7 +297,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:461db3e3f79211af9d1df6b2@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260526T180000Z
 DTEND:20260526T210000Z
 SUMMARY:Werther
@@ -307,7 +307,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:49e9a48ecd1235d982bd3b46@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270218T170000Z
 DTEND:20270218T200000Z
 SUMMARY:Aida
@@ -317,7 +317,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:49ed196e7465460ab2083925@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260215T160000Z
 DTEND:20260215T190000Z
 SUMMARY:Falstaff
@@ -327,7 +327,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:49fca295586527d14c94f248@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270521T180000Z
 DTEND:20270521T210000Z
 SUMMARY:Peter Grimes
@@ -337,7 +337,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:4a80bdd7a06a1ed9ecec766a@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260409T170000Z
 DTEND:20260409T200000Z
 SUMMARY:La bohème
@@ -347,7 +347,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:51e2a435a09478f252fa8c03@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270122T170000Z
 DTEND:20270122T200000Z
 SUMMARY:Madama Butterfly
@@ -357,7 +357,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:530c58d6f0d8b6f6967d5d6e@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261011T150000Z
 DTEND:20261011T180000Z
 SUMMARY:Alcina
@@ -367,7 +367,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:53a7efdd38a700a941b92995@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261001T160000Z
 DTEND:20261001T190000Z
 SUMMARY:Mitridate\, Re di Ponto
@@ -377,7 +377,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:5625ef2f311f68a4617e0f97@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260520T180000Z
 DTEND:20260520T210000Z
 SUMMARY:Werther
@@ -387,7 +387,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:57511e92f99ff765a16268b9@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261202T190000Z
 DTEND:20261202T220000Z
 SUMMARY:Luisa Miller
@@ -397,7 +397,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:5de34cb5412a6ad97d8ffaba@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261009T180000Z
 DTEND:20261009T210000Z
 SUMMARY:Alcina
@@ -407,7 +407,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:6400ad047797e7f4f28c9623@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270420T180000Z
 DTEND:20270420T210000Z
 SUMMARY:Nina o sia La pazza per amore
@@ -417,7 +417,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:640568d663d17c6cc4f34524@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20271028T180000Z
 DTEND:20271028T210000Z
 SUMMARY:La chute de la maison Usher
@@ -427,7 +427,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:6b05a160691c9b2100705a38@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270422T180000Z
 DTEND:20270422T210000Z
 SUMMARY:Nina o sia La pazza per amore
@@ -437,7 +437,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:6bd42a9b89886e4238386b4d@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20251216T190000Z
 DTEND:20251216T220000Z
 SUMMARY:Medea
@@ -447,7 +447,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:6d673f57210085ba45968f0d@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20251210T180000Z
 DTEND:20251210T210000Z
 SUMMARY:Medea
@@ -457,7 +457,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:6da1b858066f3df255c2127f@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260222T160000Z
 DTEND:20260222T190000Z
 SUMMARY:Falstaff
@@ -467,7 +467,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:6dd63503f324bfd9c846b05d@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Aida
@@ -477,7 +477,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:7027be3d3bd8c0fef8f7f733@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270211T190000Z
 DTEND:20270211T220000Z
 SUMMARY:Aida
@@ -487,7 +487,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:70c94dc980a1ae0c14595afa@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270310T190000Z
 DTEND:20270310T220000Z
 SUMMARY:Pagliacci
@@ -497,7 +497,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:71f06b22c5b792b1756ebfff@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270119T190000Z
 DTEND:20270119T220000Z
 SUMMARY:Madama Butterfly
@@ -507,7 +507,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:73272f3626e0b9a84b4eaf53@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270314T160000Z
 DTEND:20270314T190000Z
 SUMMARY:Pagliacci
@@ -517,7 +517,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:75f5668f3e0b218eb0eaff0b@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270214T160000Z
 DTEND:20270214T190000Z
 SUMMARY:Aida
@@ -527,7 +527,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:785eabf343844ee0a1b17c5e@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270313T180000Z
 DTEND:20270313T210000Z
 SUMMARY:Pagliacci
@@ -537,7 +537,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:79d51ae6af275833fe2306f2@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260122T180000Z
 DTEND:20260122T210000Z
 SUMMARY:Nabucco
@@ -547,7 +547,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:7ab0f43db7c231d9abfa987a@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261204T190000Z
 DTEND:20261204T220000Z
 SUMMARY:Luisa Miller
@@ -557,7 +557,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:7bff4fb5f47fa038d3a026cb@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260614T150000Z
 DTEND:20260614T180000Z
 SUMMARY:Adriana Lecouvreur
@@ -567,7 +567,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:802574566d43065f6d1e45f6@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270117T160000Z
 DTEND:20270117T190000Z
 SUMMARY:Madama Butterfly
@@ -577,7 +577,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:832083d51059a87f7e313e1c@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270923T180000Z
 DTEND:20270923T210000Z
 SUMMARY:La damnation de Faust
@@ -587,7 +587,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:83e2f8efe794aa157e1156dd@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270424T150000Z
 DTEND:20270424T180000Z
 SUMMARY:Nina o sia La pazza per amore
@@ -597,7 +597,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:86ffcd969a5d39672d377bff@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Luisa Miller
@@ -607,7 +607,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:88ee1b25dc13988ff3ff21d8@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260217T190000Z
 DTEND:20260217T220000Z
 SUMMARY:Falstaff
@@ -617,7 +617,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:89755f57186dafa388731c3b@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260524T150000Z
 DTEND:20260524T180000Z
 SUMMARY:Werther
@@ -627,7 +627,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:8bf5cdf18902a430ec2b71be@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270317T170000Z
 DTEND:20270317T200000Z
 SUMMARY:Pagliacci
@@ -637,7 +637,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:8cd45398c71da4bf62c89cdb@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260408T180000Z
 DTEND:20260408T210000Z
 SUMMARY:La bohème
@@ -647,7 +647,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:8da315bb566f91b349ab73bb@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270210T190000Z
 DTEND:20270210T220000Z
 SUMMARY:Aida
@@ -657,7 +657,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:8e418241b7b1d02f53fff505@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270417T180000Z
 DTEND:20270417T210000Z
 SUMMARY:Otto mesi in due ore o sia Gli esiliati in Siberia
@@ -667,7 +667,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:8faf926f01ce6377d75e91fd@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260708T170000Z
 DTEND:20260708T200000Z
 SUMMARY:Turandot
@@ -677,7 +677,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:927d48d48575a9259176ecb8@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270120T190000Z
 DTEND:20270120T220000Z
 SUMMARY:Madama Butterfly
@@ -687,7 +687,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:93773e328757ca321fcd3e38@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260712T150000Z
 DTEND:20260712T180000Z
 SUMMARY:Turandot
@@ -697,7 +697,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:93814a485ad9336005ec703c@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260128T190000Z
 DTEND:20260128T220000Z
 SUMMARY:Nabucco
@@ -707,7 +707,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:95c1f331e850ea6f3e09d6b0@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270519T180000Z
 DTEND:20270519T210000Z
 SUMMARY:Peter Grimes
@@ -717,7 +717,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:997e4d9a6d94b3e00ef813e8@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260711T180000Z
 DTEND:20260711T210000Z
 SUMMARY:Turandot
@@ -727,7 +727,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:9e15ef8e733bd1cac5788e91@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260707T180000Z
 DTEND:20260707T210000Z
 SUMMARY:Turandot
@@ -737,7 +737,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:a0814949d24a2f877d2b224b@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270522T180000Z
 DTEND:20270522T210000Z
 SUMMARY:Peter Grimes
@@ -747,7 +747,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:a0c409655808a3b2ae627e7d@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270124T160000Z
 DTEND:20270124T190000Z
 SUMMARY:Madama Butterfly
@@ -757,7 +757,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:ad05bb481df56062793c29c7@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260926T150000Z
 DTEND:20260926T180000Z
 SUMMARY:Mitridate\, Re di Ponto
@@ -767,7 +767,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:ae4f323c2f6dd57f79092034@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261210T170000Z
 DTEND:20261210T200000Z
 SUMMARY:Luisa Miller
@@ -777,7 +777,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:afad774033ea9a824dce35f7@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270212T170000Z
 DTEND:20270212T200000Z
 SUMMARY:Aida
@@ -787,7 +787,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:b2a7ca4b4ed8fcb67b206389@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260410T180000Z
 DTEND:20260410T210000Z
 SUMMARY:La bohème
@@ -797,7 +797,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:c5597510fca7c3dbcfdca247@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270922T180000Z
 DTEND:20270922T210000Z
 SUMMARY:La damnation de Faust
@@ -807,7 +807,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:c5651bd8918b526d2edab98a@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270525T160000Z
 DTEND:20270525T190000Z
 SUMMARY:Peter Grimes
@@ -817,7 +817,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:c683d0e057b4fb07722de79e@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260715T180000Z
 DTEND:20260715T210000Z
 SUMMARY:Turandot
@@ -827,7 +827,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:c6ac611007f4b3b77cbed611@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260131T190000Z
 DTEND:20260131T220000Z
 SUMMARY:Nabucco
@@ -837,7 +837,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:c6ee8b5afd01e4561ff8da9a@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270423T170000Z
 DTEND:20270423T200000Z
 SUMMARY:Otto mesi in due ore o sia Gli esiliati in Siberia
@@ -847,7 +847,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:c7f3c35a3d37cba4c02a3d1d@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270924T180000Z
 DTEND:20270924T210000Z
 SUMMARY:La damnation de Faust
@@ -857,7 +857,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:ca4986fbdde1a57a422ff7db@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260414T170000Z
 DTEND:20260414T200000Z
 SUMMARY:La bohème
@@ -867,7 +867,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:cff9b0c45344bea1208af00b@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270619T180000Z
 DTEND:20270619T210000Z
 SUMMARY:Il barbiere di Siviglia
@@ -877,7 +877,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:d7e6f9b2a5f7288db587ebbb@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270520T170000Z
 DTEND:20270520T200000Z
 SUMMARY:Peter Grimes
@@ -887,7 +887,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:de1c4a908cd265bfa89b29db@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261021T170000Z
 DTEND:20261021T200000Z
 SUMMARY:La Cenerentola
@@ -897,7 +897,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:e725aff9b38133cb84314cd9@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260315T160000Z
 DTEND:20260315T190000Z
 SUMMARY:Lucia di Lammermoor
@@ -907,7 +907,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:ea4c944d735a1d966677c678@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260224T190000Z
 DTEND:20260224T220000Z
 SUMMARY:Falstaff
@@ -917,7 +917,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:eb6f34e069da879abe8bbd50@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270618T180000Z
 DTEND:20270618T210000Z
 SUMMARY:Il barbiere di Siviglia
@@ -927,7 +927,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:ec010c875c0fc868979c6ccb@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261020T180000Z
 DTEND:20261020T210000Z
 SUMMARY:La Cenerentola
@@ -937,7 +937,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:edd0740d08760f1230d20f07@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260118T160000Z
 DTEND:20260118T190000Z
 SUMMARY:Nabucco
@@ -947,7 +947,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:edff4ee520164bc7c7639bf3@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270925T170000Z
 DTEND:20270925T200000Z
 SUMMARY:La damnation de Faust
@@ -957,7 +957,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f0000ef519810907fffc1f6e@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260929T170000Z
 DTEND:20260929T200000Z
 SUMMARY:Mitridate\, Re di Ponto
@@ -967,7 +967,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f03e185b8ce3fb5d6b7b5699@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270617T180000Z
 DTEND:20270617T210000Z
 SUMMARY:Il barbiere di Siviglia
@@ -977,7 +977,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f0c88623aaf8d364bfb28763@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260219T180000Z
 DTEND:20260219T210000Z
 SUMMARY:Falstaff
@@ -987,7 +987,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f13b1706cbfc419d7906493c@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270311T190000Z
 DTEND:20270311T220000Z
 SUMMARY:Pagliacci
@@ -997,7 +997,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f1dc189dcecb4effb495fead@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261027T180000Z
 DTEND:20261027T210000Z
 SUMMARY:La Cenerentola
@@ -1007,7 +1007,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f2c9a40b67c1db5da6b23733@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260714T180000Z
 DTEND:20260714T210000Z
 SUMMARY:Turandot
@@ -1017,7 +1017,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f3a966bde3a8a31c2d754446@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260311T190000Z
 DTEND:20260311T220000Z
 SUMMARY:Lucia di Lammermoor
@@ -1027,7 +1027,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f47fcc5ea3feca66eacaec56@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20261209T180000Z
 DTEND:20261209T210000Z
 SUMMARY:Luisa Miller
@@ -1037,7 +1037,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f57a0926a62dbb03aac190f4@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270216T190000Z
 DTEND:20270216T220000Z
 SUMMARY:Aida
@@ -1047,7 +1047,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f70396c85d5815af4376dad4@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270523T150000Z
 DTEND:20270523T180000Z
 SUMMARY:Peter Grimes
@@ -1057,7 +1057,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f76db7871115a3aef0223247@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260705T170000Z
 DTEND:20260705T200000Z
 SUMMARY:Turandot
@@ -1067,7 +1067,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:f8eade65ec0d65aefb7088ce@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260906T170000Z
 DTEND:20260906T200000Z
 SUMMARY:Aida
@@ -1077,7 +1077,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:fcea43dfdd2cdc4292aa5c95@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260710T180000Z
 DTEND:20260710T210000Z
 SUMMARY:Turandot
@@ -1087,7 +1087,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:fd5b55146bf7d86b5d0d3347@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20270623T160000Z
 DTEND:20270623T190000Z
 SUMMARY:Il barbiere di Siviglia
@@ -1097,7 +1097,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:fdaef1b1b1a015f90f063800@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260924T170000Z
 DTEND:20260924T200000Z
 SUMMARY:Mitridate\, Re di Ponto
@@ -1107,7 +1107,7 @@ URL:https://www.classicalive.it/it/rassegne/teatro-di-san-carlo/stagione-dopera-
 END:VEVENT
 BEGIN:VEVENT
 UID:ff65fbccb70d22c641d3fd9a@san-carlo-opera
-DTSTAMP:20261103T172332Z
+DTSTAMP:20261104T073407Z
 DTSTART:20260324T190000Z
 DTEND:20260324T220000Z
 SUMMARY:Lucia di Lammermoor
